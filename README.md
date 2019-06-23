@@ -1,5 +1,5 @@
-# samratinvestments
-sample website for samrat investments </br>
+# Samrat Investments
+Sample website for Samrat Investments </br>
 Website Live at: https://himanshu004.github.io/samratinvestments/
 # Build Using:</br>
 ->HTML5</br>
